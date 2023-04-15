@@ -56,7 +56,7 @@ df['date'] = pd.to_datetime(df['date'], errors='coerce')
 
 st.sidebar.divider()
 st.sidebar.text("NEUST MS IT 2022-2023 2nd Sem")
-st.sidebar.text("IT-273 Data Visualization")
+st.sidebar.text("IT-272 Data Analytics")
 st.sidebar.text("Jay Milagroso<j.milagroso@gmail.com>")
 
 st.bar_chart(
